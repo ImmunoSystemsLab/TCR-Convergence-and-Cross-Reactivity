@@ -227,4 +227,4 @@ python TCR_specificity_prediction.py
 
 ## Conclusion
 
-Complete TCR–epitope mapping revealed convergent α-chain architectures and shared clonotypes across epitopes. These observations highlight how immune repertoires can converge on common recognition strategies while simultaneously exhibiting repertoire overlap that complicates epitope-specific prediction.
+TCR antigen recognition is shaped by both convergent α-chain architectures and a degree of clonotype-level cross-reactivity, indicating that immune repertoires reuse common structural solutions rather than exploring sequence space randomly.
